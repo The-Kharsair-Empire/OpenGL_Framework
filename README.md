@@ -1,0 +1,1 @@
+#### A attempt to create a generic, easy-to-use rendering framework based on OpenGL. For future projects requiring visuals.
